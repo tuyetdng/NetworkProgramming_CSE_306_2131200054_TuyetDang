@@ -1,0 +1,14 @@
+FileINputStream->FileReader->Buffereader
+
+string line = br.readLine();line != null; line =br.readLine()
+int i = line.indexOf(' ')
+String res= subString(i)
+
+Inetaddress ip = Inetaddress.getByAddess(0, i)
+sout(ip.getHostName + res)
+
+java -cp target/lab-streams-1.0-SNAPSHOT.jar eiu.cit.netprog.TicTacToeSeverOOP_ClientKeepBoard
+java -cp target/lab-streams-1.0-SNAPSHOT.jar eiu.cit.netprog.TicTacToeClient_keepBoard
+
+
+ 

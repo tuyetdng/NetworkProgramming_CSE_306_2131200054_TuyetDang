@@ -1,0 +1,19 @@
+- Sample files
+https://www.tanbinhtech.com:8443/sample1.wav
+https://www.tanbinhtech.com:8443/sample10.wav
+http://ice10.outlaw.fm/KIEV2
+
+
+Iterations:
+
+- Write a Java application that plays a .wav file stored in your laptop. 
+- Write a Java application that downloads a .wav file from the Internet.
+  (Manually play the file [third-party  application])
+- Write a Java application that downloads a .wav file from the Internet
+  and plays it [do not use third-party libraries]:
+  (a) it downloads it FIRST, THEN plays it
+  (b) it downloads AND plays it.
+- Write a Java application that plays  online radios [.mp3] [you can
+use third-party libraries]
+
+
